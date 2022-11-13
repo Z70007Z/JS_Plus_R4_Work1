@@ -1,0 +1,29 @@
+{
+  "name": "js_plus_r4_work1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z70007Z/JS_Plus_R4_Work1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Z70007Z/JS_Plus_R4_Work1/issues"
+  },
+  "homepage": "https://github.com/Z70007Z/JS_Plus_R4_Work1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "core-js": "^3.26.0"
+  }
+}
